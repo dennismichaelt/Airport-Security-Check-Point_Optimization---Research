@@ -1,6 +1,6 @@
 # Airport-Security-Check-Point_Optimization---Research
 
-Built by: Anthony Christopher P. and Dennis Michael T.
+Built by: Dennis Michael T and Anthony Christopher P.
 
 We built an Agent-Based Model (ABM) in Python to simulate how passenger traffic bottlenecks form at airport security checkpoints. The goal was to see how technical factors (like AI risk scoring models) and human variables (like staff experience and how prepared passengers are) interact when a checkpoint gets slammed during peak hours.
 
